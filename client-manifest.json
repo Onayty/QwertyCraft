@@ -2,9 +2,9 @@
   "schema": 1,
   "version": "1.0.0",
   "minecraft": "1.21.1",
-  "loader": "fabric",
-  "loaderVersion": "0.16.10",
-  "download": "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0/qwertycraft-client-1.0.0.zip",
-  "sha256": "СЮДА_ХЕШ",
-  "size": 0
+  "loader": "neoforge",
+  "loaderVersion": "21.1.249",
+  "download": "https://github.com/Onayty/QwertyCraft/releases/download/Update/qwertycraft-client-1.0.0.zip",
+  "sha256": "F30899ED0C8C0B3D24840DB40FBF70DCCD6D061429925CB65361F193574C84C0",
+  "size": 1531203863
 }
