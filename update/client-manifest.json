@@ -1,10 +1,10 @@
 {
-  "schema": 1,
   "version": "1.2.5",
-  "minecraft": "1.21.1",
-  "loader": "neoforge",
-  "loaderVersion": "21.1.249",
-  "download": "https://github.com/Onayty/QwertyCraft/releases/download/Update-1.2.5/qwertycraft-client-1.2.5.zip",
-  "sha256": "A7CA451C8E439375AD5F751815F6F9AA1BB5E8F94F7FDBD960390E0A7DA1015D",
-  "size": 1577055546
+  "minecraftVersion": "1.21.1",
+  "forgeVersion": "NeoForge 21.1.249",
+  "file": "qwertycraft-client-1.2.5.zip",
+  "size": 1577060326,
+  "sha256": "12E357DF372B6DECA96FCC46CB436364170A77B75B3B7EC3BE4BD28EBEB63CDE",
+  "downloadUrl": "https://github.com/letr33xe/QwertyLauncher/releases/download/v1.2.5/qwertycraft-client-1.2.5.zip",
+  "notes": "Обновление сборки 1.2.5: Iris 1.8.14 (совместимость с Sodium 0.8), Citadel 2.7.6, KotlinForForge 5.12.0, Colorwheel 1.2.1."
 }
