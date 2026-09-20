@@ -1,10 +1,10 @@
-    {
-      "schema": 1,
-      "version": "1.2.0",
-      "minecraft": "1.21.1",
-      "loader": "neoforge",
-      "loaderVersion": "21.1.249",
-      "download": "https://github.com/Onayty/QwertyCraft/releases/download/Update-1.2.0/qwertycraft-client-1.2.0.zip",
-      "sha256": "E07330EDD09601373374DEF4466B09578D1C3D1F8763745BDC37A51CDEFE830D",
-      "size": 1570758024
-    }
+{
+  "schema": 1,
+  "version": "1.2.5",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.249",
+  "download": "https://github.com/Onayty/QwertyCraft/releases/download/Update-1.2.5/qwertycraft-client-1.2.5.zip",
+  "sha256": "A7CA451C8E439375AD5F751815F6F9AA1BB5E8F94F7FDBD960390E0A7DA1015D",
+  "size": 1577055546
+}
