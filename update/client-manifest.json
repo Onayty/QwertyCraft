@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.249",
   "download": "https://github.com/Onayty/QwertyCraft/releases/download/Update-1.1.1/qwertycraft-client-1.1.1.zip",
-  "sha256": "F30899ED0C8C0B3D24840DB40FBF70DCCD6D061429925CB65361F193574C84C0",
+  "sha256": "74B7FC34DE9FECEFD0069CA7DAD8B099EB803CE3BA8260FA9575D243C77F2E96 ",
   "size": 1574024174
 }
