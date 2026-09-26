@@ -7,8 +7,8 @@
   "loaderVersion": "21.1.249",
   "forgeVersion": "NeoForge 21.1.249",
   "file": "qwertycraft-client-1.2.7.zip",
-  "size": 1577082782,
-  "sha256": "DE89E6D4E0D29B3C24E7B68B6F3C79F6973E3B356C0D42291D84D39E0F94CE5F",
+  "size": 1577082485,
+  "sha256": "D0D32B5EDE0AD13D72052D44CC6BC55DD81CB3847FD88B448C77BF92D9F379A4",
   "download": "https://github.com/Onayty/QwertyCraft/releases/download/Update-1.2.7/qwertycraft-client-1.2.7.zip",
   "downloadUrl": "https://github.com/Onayty/QwertyCraft/releases/download/Update-1.2.7/qwertycraft-client-1.2.7.zip",
   "notes": "Обновление сборки 1.2.7: Доработка мода RagdolInAdCuffs"
